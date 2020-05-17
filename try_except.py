@@ -17,6 +17,7 @@ while True:
         print('Ignored')
         continue
 print('Maximum: '+str(largest))
-print('Minimum: '+str(smallest))    
+print('Minimum: '+str(smallest))   
+print("Bye") 
 
 
