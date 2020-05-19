@@ -14,21 +14,21 @@ void main()
     {
         if(a%400==0)            //Neasted if condition to check divisibility by 4 
         {
-            printf("The year %d is a Leap Year.",a);
+            printf("The year %d is a Leap Year\n",a);
         }
         else
         {
-            printf("The year %d is Not a Leap Year",a);
+            printf("The year %d is Not a Leap Year\n",a);
         }
         
     }
     else if (a%4==0)            //else condition to check divisibility by 4
     {
-        printf("The year %d is a Leap Year",a);
+        printf("The year %d is a Leap Year\n",a);
     }
     else
     {
-        printf("The year %d is Not a Leap Year",a);
+        printf("The year %d is Not a Leap Year\n",a);
     }
     
     
